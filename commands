@@ -18,3 +18,5 @@ git branch //will used to fetch list of branches
 git branch branchname  //it will create new branch
 git checkout branchname //switch between the branches
 git branch -d sk //to delete the branch
+
+git push --set-upstream origin dev //pushing updates to new branch, here dev is the new branch
