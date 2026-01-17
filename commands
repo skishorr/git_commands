@@ -11,3 +11,10 @@ commands for pushing the codes from 2nd time
 git add .
 git commit -m "comments"
 git push
+
+extra commands
+
+git branch //will used to fetch list of branches
+git branch branchname  //it will create new branch
+git checkout branchname //switch between the branches
+git branch -d sk //to delete the branch
