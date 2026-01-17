@@ -5,3 +5,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/skishorr/git_commands.git
 git push -u origin main
+
+commands for pushing the codes from 2nd time
+
+git add .
+git commit -m "comments"
+git push
