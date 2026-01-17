@@ -20,3 +20,7 @@ git checkout branchname //switch between the branches
 git branch -d sk //to delete the branch
 
 git push --set-upstream origin dev //pushing updates to new branch, here dev is the new branch
+git pull //to pull the latest code
+git merge //to mege in local
+
+git log -- summary
