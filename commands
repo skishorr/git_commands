@@ -22,5 +22,10 @@ git branch -d sk //to delete the branch
 git push --set-upstream origin dev //pushing updates to new branch, here dev is the new branch
 git pull //to pull the latest code
 git merge //to mege in local
-
+git log
 git log -- summary
+
+git log --oneline --summary
+git log -3 --summary  //last 3 log details
+
+git log --summary --stat
